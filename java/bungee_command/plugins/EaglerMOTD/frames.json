@@ -1,0 +1,110 @@
+{
+	"frame1": { 
+		"icon": "server-animation.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "&7Creekside Network",
+		"text1": " | &cWelcome to the Creekside Network | "
+	},
+	"frame2": { 
+		"icon": "server-animation.png",
+		"icon_spriteX": 1,
+		"icon_spriteY": 0,
+		"icon_color": [ 1.0, 0.0, 0.0, 0.15 ],
+		"online": 10,
+		"players": [ "fake player 1", "fake player 2" ],
+		"text0": "&7Creekside Network",
+		"text1": " / &cWelcome to the _reekside Network / "
+	},
+	"frame3": { 
+		"icon": "server-animation.png",
+		"icon_spriteX": 2,
+		"icon_spriteY": 0,
+		"icon_color": [ 1.0, 0.0, 0.0, 0.15 ],
+		"icon_tint": [ 0.8, 0.8, 1.0 ],
+		"online": 20,
+		"players": [],
+		"text0": "&7 &6&nCreekside Network",
+		"text1": " - &cWelcome to the C_eekside Network - "
+	},
+	"frame4": { 
+		"icon": "server-animation.png",
+		"icon_spriteX": 3,
+		"icon_spriteY": 0,
+		"icon_color": [ 1.0, 1.0, 0.0, 0.15 ],
+		"icon_tint": [ 0.8, 0.8, 1.0, 0.8 ],
+		"online": 30,
+		"players": "default",
+		"text0": "&7Creekside Network",
+		"text1": " * &cWelcome to the Cre_kside Network * "
+    },
+	"frame5": { 
+		"icon": "server-animation.png",
+		"icon_spriteX": 3,
+		"icon_spriteY": 0,
+		"icon_color": [ 1.0, 1.0, 0.0, 0.15 ],
+		"icon_tint": [ 0.8, 0.8, 1.0, 0.8 ],
+		"online": 30,
+		"players": "default",
+		"text0": "&7Creekside Network&r",
+		"text1": " | &cWelcome to the Cree_side Network | "
+    },
+	"frame6": { 
+		"icon": "server-animation.png",
+		"icon_spriteX": 3,
+		"icon_spriteY": 0,
+		"icon_color": [ 1.0, 1.0, 0.0, 0.15 ],
+		"icon_tint": [ 0.8, 0.8, 1.0, 0.8 ],
+		"online": 30,
+		"players": "default",
+		"text0": "&7Creekside Network&r",
+		"text1": " / &cWelcome to the Creek_ide Network / "
+    },
+	"frame7": { 
+		"icon": "server-animation.png",
+		"icon_spriteX": 3,
+		"icon_spriteY": 0,
+		"icon_color": [ 1.0, 1.0, 0.0, 0.15 ],
+		"icon_tint": [ 0.8, 0.8, 1.0, 0.8 ],
+		"online": 30,
+		"players": "default",
+		"text0": "&7Creekside Network",
+		"text1": " - &cWelcome to the Creeks_de Network - "
+    },
+	"frame8": { 
+		"icon": "server-animation.png",
+		"icon_spriteX": 3,
+		"icon_spriteY": 0,
+		"icon_color": [ 1.0, 1.0, 0.0, 0.15 ],
+		"icon_tint": [ 0.8, 0.8, 1.0, 0.8 ],
+		"online": 30,
+		"players": "default",
+		"text0": "&7Creekside Network&r",
+		"text1": " * &cWelcome to the Creeksi_e Network * "
+    },
+	"frame9": { 
+		"icon": "server-animation.png",
+		"icon_spriteX": 3,
+		"icon_spriteY": 0,
+		"icon_color": [ 1.0, 1.0, 0.0, 0.15 ],
+		"icon_tint": [ 0.8, 0.8, 1.0, 0.8 ],
+		"online": 30,
+		"players": "default",
+		"text0": "&7Creekside Network&r",
+		"text1": " | &cWelcome to the Creeksid_ Network | "
+    },
+	"frame0": { 
+		"icon": "server-animation.png",
+		"icon_spriteX": 3,
+		"icon_spriteY": 0,
+		"icon_color": [ 1.0, 1.0, 0.0, 0.15 ],
+		"icon_tint": [ 0.8, 0.8, 1.0, 0.8 ],
+		"online": 30,
+		"players": "default",
+		"text0": "&7Creekside Network&r",
+		"text1": " / &cWelcome to the Creekside Network / "
+	}
+}
